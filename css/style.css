@@ -89,3 +89,34 @@ p {
     font-size: 20px;
 }
 
+/* footer */
+footer {
+    background-color: #758BFD;
+    display: flex;
+    padding: 75px 98px 105px 98px;
+    justify-content: space-between;
+
+}
+
+.footer_div {
+    Width: 114px;
+    Height: 59px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+.footer_h2 {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 17px;
+}
+
+.fa-brands {
+    height: 22px;
+    height: 22px;
+    color: #FFFFFF;
+
+}
